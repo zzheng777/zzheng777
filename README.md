@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzheng777
-- 👀 I’m interested in anything related to understanding data.
-- 🌱 I’m currently learning .python, and R.
+- 👀 I’m interested in anything related to data, I am an aspiring data scientist !
+- 🌱 I’m currently learning SQL and Tabelu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zzheng9288@gmail.com
 
